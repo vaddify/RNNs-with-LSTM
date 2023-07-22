@@ -1,9 +1,8 @@
 # RNNs-with-LSTM
-Predict Stock Price S&amp;P500
+
 **Objective**
-
+Predict Stock Price S&amp;P500
 Let us design and implement a Recurrent Neural Network (RNN) model using Python that can forecast stock prices using S&P500 dataset. 
-
 In this scenario the model will learn from historical stock price data and forecast future stock prices.
 
 **Dataset**
