@@ -7,7 +7,7 @@ Let us design and implement a Recurrent Neural Network (RNN) model using Python 
 In this scenario the model will learn from historical stock price data and forecast future stock prices.
 
 **Dataset**
-We will use the S&P 500 stock data dataset, which contains historical stock price data for the S&P 500 companies.
+- We will use the S&P 500 stock data dataset, which contains historical stock price data for the S&P 500 companies.
 
 **Detailed Steps:**
 - Preprocess the dataset to prepare it for input to the RNN model. We will consider factors like feature selection, normalization, and scaling to ensure the best results from the RNN model.
